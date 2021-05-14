@@ -1,0 +1,12 @@
+{
+  "name": "singtel",
+  "displayName": "singtel",
+  "expo": {
+    "name": "singtel",
+    "slug": "singtel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
